@@ -1,0 +1,4 @@
+*.pyc
+secrets.sh
+__pycache__
+.DS_Store
